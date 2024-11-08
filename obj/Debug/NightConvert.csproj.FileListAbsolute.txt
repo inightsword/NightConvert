@@ -1,0 +1,10 @@
+D:\Projects\NightConvert\bin\Debug\NightConvert.exe.config
+D:\Projects\NightConvert\bin\Debug\NightConvert.exe
+D:\Projects\NightConvert\bin\Debug\NightConvert.pdb
+D:\Projects\NightConvert\obj\Debug\NightConvert.csproj.AssemblyReference.cache
+D:\Projects\NightConvert\obj\Debug\NightConvert.Main.resources
+D:\Projects\NightConvert\obj\Debug\NightConvert.Properties.Resources.resources
+D:\Projects\NightConvert\obj\Debug\NightConvert.csproj.GenerateResource.cache
+D:\Projects\NightConvert\obj\Debug\NightConvert.csproj.CoreCompileInputs.cache
+D:\Projects\NightConvert\obj\Debug\NightConvert.exe
+D:\Projects\NightConvert\obj\Debug\NightConvert.pdb
